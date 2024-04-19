@@ -1,4 +1,4 @@
-### Hi there 👋
+## Village rule number 0: if it's alive, it's got bugs.
 
 <!--
 **xxbfu/xxbfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
